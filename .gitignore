@@ -29,8 +29,9 @@ target/
 *.path
 *.tmp
 
-.gradle
 /build/
+/.gradle/
+.gradle
 
 #system
 .DS_Store
